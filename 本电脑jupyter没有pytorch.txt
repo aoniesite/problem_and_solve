@@ -1,0 +1,9 @@
+1.先打开Anaconda Prompt
+
+2.然后输入    conda activate   pytorch    回车
+
+
+3.再输入     jupyter notebook    回车
+ （注意  我的电脑只有c盘   所以  没啥问题    如果 有的电脑有d盘     可能打开jupyter  会发现没有pytorch  这时候  解决方法（我没试验是否正确）：
+方法一：1.  conda activate   pytorch   进入pytorch环境   2.    cd/d     在哪个盘  就cd到哪个盘    然后再  jupyter notebook  
+方法二：1. conda activate   pytorch   进入pytorch环境，2.jupyter notebook  D：                      ） 
